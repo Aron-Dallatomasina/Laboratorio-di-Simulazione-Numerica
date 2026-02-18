@@ -1,0 +1,7 @@
+restart     1
+annealing   0
+
+ENDINPUT
+
+# If restart=1, restart from last saved position
+# If annealing=1, run Simulated Annealing algorithm
