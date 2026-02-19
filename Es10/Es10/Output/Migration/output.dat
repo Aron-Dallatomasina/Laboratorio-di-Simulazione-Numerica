@@ -1,0 +1,16 @@
+# PROBLEM PARAMETERS:
+# NumPop = 1000
+# NumGen = 2000
+# MPI PARAMETERS:
+# Migration = 1
+# NumMigr = 20
+# GENETIC PARAMETERS:
+# p_sel = 2
+# p_cross = 0.8
+# p_mut_swap = 0.06
+# p_mut_inv = 0.05
+# p_mut_shift = 0.04
+# p_mut_mperm = 0.03
+# PARALLELIZATION RESULTS:
+# total number of processes = 11
+# best global length = 64.8868 found by rank 1
